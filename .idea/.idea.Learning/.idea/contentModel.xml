@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Learning.-1225370047.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="API" t="Include" />
+      <e p="Domain" t="Include" />
+      <e p="Infra" t="Include" />
+      <e p="Learning.API/src/Learning.API" t="IncludeRecursive">
+        <e p="Learning.API.fsproj" t="IncludeRecursive" />
+        <e p="Program.fs" t="Include" />
+        <e p="WebRoot" t="Include">
+          <e p="main.css" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="web.config" t="Include" />
+      </e>
+      <e p="Learning.Domain" t="IncludeRecursive">
+        <e p="Entities.fs" t="Include" />
+        <e p="Learning.Domain.fsproj" t="IncludeRecursive" />
+        <e p="Library.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="Learning.Infra" t="IncludeRecursive">
+        <e p="Learning.Infra.fsproj" t="IncludeRecursive" />
+        <e p="Library.fs" t="Include" />
+        <e p="Settings.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="Learning.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
